@@ -11,3 +11,4 @@ Logo alignment is centered.
 Text alignment is centered.
 Text alignment is centered perfectly.
 Text alignment is done.
+Alignment of the text is done.
