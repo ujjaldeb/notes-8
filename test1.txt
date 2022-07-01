@@ -9,3 +9,4 @@ This is test1 line 8.
 This is test1 line 9.
 Logo alignment is centered.
 Text alignment is centered.
+Text alignment is centered perfectly.
