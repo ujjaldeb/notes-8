@@ -12,3 +12,4 @@ Text alignment is centered.
 Text alignment is centered perfectly.
 Text alignment is done.
 Alignment of the text is done.
+A new line is added from dev branch.
